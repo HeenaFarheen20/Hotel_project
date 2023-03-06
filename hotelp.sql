@@ -1,3 +1,6 @@
+Create database Project;
+Show databases;
+
 Use project;
 
 * -- To get the answer of how  much revenue generated in each hotel type in three diffirent years.
