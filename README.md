@@ -8,11 +8,11 @@ Then extracted the data from database ,Their were 3 years data for the year 2018
 I wrote Sql Queries and cleaned and manipulated the data. 
 Add new column as requiered.
 
-## Connect Power BI to a Database
+## Connect Tableau to a Database
 In last I connected my Database to PowerBI and built a Visulizations to get the business insight.
 
 ## Visualize Data in Power BI
-
+Link - https://public.tableau.com/app/profile/heena5475/viz/HotelProject1/projectdashboard
 
 Find the dataset here:
 https://absentdata.com/data-analysis/...
